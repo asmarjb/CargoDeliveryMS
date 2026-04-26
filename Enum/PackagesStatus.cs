@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CargoDelivery.Enum
 {
-    internal class PackagesStatus
+    internal enum PackagesStatus
     {
     }
 }
